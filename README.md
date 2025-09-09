@@ -1,7 +1,7 @@
 # House Price Prediction (Images + Tabular Features)
 
 ## Overview
-Predict Houston house list prices using **images + tabular features**. You compare three neural setups—hybrid (CNN + MLP), image-only (CNN), and features-only (MLP)—and also train a classic Decision Tree baseline.
+Predict Houston house list prices using **images + tabular features**. I compared three neural setups—hybrid (CNN + MLP), image-only (CNN), and features-only (MLP)—and also train a classic Decision Tree baseline.
 
 ---
 
